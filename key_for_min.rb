@@ -15,6 +15,7 @@ def key_for_min_value(name_hash)
   return lowest_key
 end
 
+#did this exercise with online instructor.
 
 
     #check if value is nil or if value is less than variable on line 2
